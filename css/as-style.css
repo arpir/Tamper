@@ -358,6 +358,8 @@ body {
   font-family: iconfont !important;
   font-size: 20px;
   font-style: normal;
+  background-color: blanchedalmond;
+  border-radius: 10px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
