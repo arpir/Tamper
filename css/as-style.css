@@ -111,6 +111,7 @@ body {
   cursor: pointer;
 }
 .as-setting {
+  display: none;
   line-height: 30px;
   padding: 0 16px;
   position: relative;
